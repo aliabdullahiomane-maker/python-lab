@@ -1,0 +1,3 @@
+Enter a number: Square: 0.0
+Parity: even
+Fahrenheit (if 0.0°C): 32.0

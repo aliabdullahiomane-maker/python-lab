@@ -1,0 +1,3 @@
+Enter a number: Square: 9.0
+Parity: odd
+Fahrenheit (if 3.0°C): 37.4
